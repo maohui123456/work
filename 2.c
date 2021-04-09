@@ -1,3 +1,2 @@
-add 2.h
-
-add 2.c
+this is 2.c
+change change 2.c
